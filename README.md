@@ -1,4 +1,4 @@
-![image](https://github.com/BasemAmr/Arduino-with-LCD-and-Keypad/assets/67838239/a75e9a99-ae6a-4501-bba4-30dae67ff7d9)# LCD with Keypad and Arduino Project
+# LCD with Keypad and Arduino Project
 
 This project demonstrates interfacing an LCD (Liquid Crystal Display) with a keypad using an Arduino microcontroller. It was developed by Basem Amr Sleem as part of the RES Beginners Track course on July 7, 2024.
 
@@ -19,8 +19,7 @@ Include steps to set up the project:
 
 ## Circuit Diagram
 
-![Circuit Diagram](![image](https://github.com/BasemAmr/Arduino-with-LCD-and-Keypad/assets/67838239/edc3a0fe-24fb-4f5e-ada4-ad6944c7da6e)
-)
+![Circuit Diagram](![image](https://github.com/BasemAmr/Arduino-with-LCD-and-Keypad/assets/67838239/a75e9a99-ae6a-4501-bba4-30dae67ff7d9))
 
 ## Simulation Video
 
