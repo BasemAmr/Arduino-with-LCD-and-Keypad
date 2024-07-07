@@ -19,7 +19,7 @@ Include steps to set up the project:
 
 ## Circuit Diagram
 
-![Circuit Diagram](![image](https://github.com/BasemAmr/Arduino-with-LCD-and-Keypad/assets/67838239/a75e9a99-ae6a-4501-bba4-30dae67ff7d9))
+![Circuit Diagram](https://github.com/BasemAmr/Arduino-with-LCD-and-Keypad/assets/67838239/a75e9a99-ae6a-4501-bba4-30dae67ff7d9)
 
 ## Simulation Video
 
